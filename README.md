@@ -75,6 +75,7 @@ python manage.py check --deploy
 5. Configuración en PythonAnywhere
 
 Ve a la sección Web App en PythonAnywhere para crear una nueva página.
+
 Selecciona la opción de Custom web app con tu entorno virtual.
 
 Modificar Código Fuente
@@ -92,9 +93,11 @@ which python
 ```
 
 Copia la ruta hasta justo antes de bin.
+
 6. Configuración del Fichero WSGI
 
 Ve al archivo WSGI y elimina todo su contenido.
+
 Reemplázalo con el siguiente código:
 
 ```python
