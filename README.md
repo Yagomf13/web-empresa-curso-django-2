@@ -66,7 +66,7 @@ DEBUG = False
 ALLOWED_HOSTS = ['<URL DEL PYTHONANYWHERE>', 'localhost', '127.0.0.1']
 ```
 
-    Vuelve a ejecutar el comando:
+Vuelve a ejecutar el comando:
 
 ```bash
 python manage.py check --deploy
