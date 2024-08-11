@@ -74,8 +74,8 @@ python manage.py check --deploy
 
 5. Configuración en PythonAnywhere
 
-    Ve a la sección Web App en PythonAnywhere para crear una nueva página.
-    Selecciona la opción de Custom web app con tu entorno virtual.
+Ve a la sección Web App en PythonAnywhere para crear una nueva página.
+Selecciona la opción de Custom web app con tu entorno virtual.
 
 Modificar Código Fuente
 
