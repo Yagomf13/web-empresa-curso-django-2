@@ -79,13 +79,13 @@ python manage.py check --deploy
 
 Modificar Código Fuente
 
-    Ve a la sección Code y edita la ruta del código fuente con lo que obtuviste al ejecutar en el bash:
+Ve a la sección Code y edita la ruta del código fuente con lo que obtuviste al ejecutar en el bash:
 
 ```bash
 pwd
 ```
 
-    Ve a Virtualenv y añade el entorno virtual, usando la ruta obtenida con el siguiente comando:
+Ve a Virtualenv y añade el entorno virtual, usando la ruta obtenida con el siguiente comando:
 
 ```bash
 which python
@@ -94,8 +94,8 @@ which python
 Copia la ruta hasta justo antes de bin.
 6. Configuración del Fichero WSGI
 
-    Ve al archivo WSGI y elimina todo su contenido.
-    Reemplázalo con el siguiente código:
+Ve al archivo WSGI y elimina todo su contenido.
+Reemplázalo con el siguiente código:
 
 ```python
 
